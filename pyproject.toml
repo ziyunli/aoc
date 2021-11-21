@@ -1,8 +1,8 @@
 [tool]
 [tool.poetry]
-name = "aoc2021"
+name = "aoc"
 version = "0.1.0"
-homepage = "https://github.com/ziyunli/aoc2021"
+homepage = "https://github.com/ziyunli/aoc"
 description = "Advent of Code 2021."
 authors = ["Ziyun Li <hi@ziyunli.dev>"]
 readme = "README.md"
@@ -17,9 +17,10 @@ classifiers=[
     'Programming Language :: Python :: 3.7',
     'Programming Language :: Python :: 3.8',
     'Programming Language :: Python :: 3.9',
+    'Programming Language :: Python :: 3.10',
 ]
 packages = [
-    { include = "aoc2021" },
+    { include = "aoc" },
     { include = "tests", format = "sdist" },
 ]
 

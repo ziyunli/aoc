@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-"""Tests for `aoc2021` package."""
+"""Tests for `aoc` package."""
 
 import pytest
 

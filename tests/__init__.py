@@ -1,1 +1,1 @@
-"""Unit test package for aoc2021."""
+"""Unit test package for aoc."""

@@ -1,7 +1,7 @@
-site_name: aoc2021
-site_url: https://ziyunli.github.io/aoc2021
-repo_url: https://github.com/ziyunli/aoc2021
-repo_name: ziyunli/aoc2021
+site_name: aoc
+site_url: https://ziyunli.github.io/aoc
+repo_url: https://github.com/ziyunli/aoc
+repo_name: ziyunli/aoc
 #strict: true
 nav:
   - Home: index.md
@@ -51,7 +51,7 @@ plugins:
       lang: en
   - mkdocstrings:
       watch:
-        - aoc2021
+        - aoc
 extra:
   social:
     - icon: fontawesome/brands/twitter
@@ -63,7 +63,7 @@ extra:
       link: https://github.com/waynerv/cookiecutter-pypackage
       name: Facebook
     - icon: fontawesome/brands/github
-      link: https://github.com/ziyunli/aoc2021
+      link: https://github.com/ziyunli/aoc
       name: Github
     - icon: material/email
       link: "mailto:hi@ziyunli.dev"

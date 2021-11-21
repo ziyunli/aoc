@@ -1,4 +1,4 @@
-* aoc2021 version:
+* aoc version:
 * Python version:
 * Operating System:
 

@@ -9,7 +9,7 @@ You can contribute in many ways:
 
 ### Report Bugs
 
-Report bugs at https://github.com/ziyunli/aoc2021/issues.
+Report bugs at https://github.com/ziyunli/aoc/issues.
 
 If you are reporting a bug, please include:
 
@@ -29,13 +29,13 @@ and "help wanted" is open to whoever wants to implement it.
 
 ### Write Documentation
 
-aoc2021 could always use more documentation, whether as part of the
-official aoc2021 docs, in docstrings, or even on the web in blog posts,
+aoc could always use more documentation, whether as part of the
+official aoc docs, in docstrings, or even on the web in blog posts,
 articles, and such.
 
 ### Submit Feedback
 
-The best way to send feedback is to file an issue at https://github.com/ziyunli/aoc2021/issues.
+The best way to send feedback is to file an issue at https://github.com/ziyunli/aoc/issues.
 
 If you are proposing a feature:
 
@@ -46,13 +46,13 @@ If you are proposing a feature:
 
 ## Get Started!
 
-Ready to contribute? Here's how to set up `aoc2021` for local development.
+Ready to contribute? Here's how to set up `aoc` for local development.
 
-1. Fork the `aoc2021` repo on GitHub.
+1. Fork the `aoc` repo on GitHub.
 2. Clone your fork locally
 
     ```
-    $ git clone git@github.com:your_name_here/aoc2021.git
+    $ git clone git@github.com:your_name_here/aoc.git
     ```
 
 3. Ensure [poetry](https://python-poetry.org/docs/) is installed.
@@ -95,14 +95,14 @@ Before you submit a pull request, check that it meets these guidelines:
 2. If the pull request adds functionality, the docs should be updated. Put
    your new functionality into a function with a docstring, and add the
    feature to the list in README.md.
-3. The pull request should work for Python 3.6, 3.7, 3.8 and 3.9. Check
-   https://github.com/ziyunli/aoc2021/actions
+3. The pull request should work for Python 3.6, 3.7, 3.8, 3.9, 3.10. Check
+   https://github.com/ziyunli/aoc/actions
    and make sure that the tests pass for all supported Python versions.
 
 ## Tips
 
 ```
-$ poetry run pytest tests/test_aoc2021.py
+$ poetry run pytest tests/test_aoc.py
 ```
 
 To run a subset of tests.

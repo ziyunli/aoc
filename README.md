@@ -1,19 +1,14 @@
-# aoc2021
+# Advent of Code 2021
 
-
-[![pypi](https://img.shields.io/pypi/v/aoc2021.svg)](https://pypi.org/project/aoc2021/)
-[![python](https://img.shields.io/pypi/pyversions/aoc2021.svg)](https://pypi.org/project/aoc2021/)
-[![Build Status](https://github.com/ziyunli/aoc2021/actions/workflows/dev.yml/badge.svg)](https://github.com/ziyunli/aoc2021/actions/workflows/dev.yml)
-[![codecov](https://codecov.io/gh/ziyunli/aoc2021/branch/main/graphs/badge.svg)](https://codecov.io/github/ziyunli/aoc2021)
-
+[![Build Status](https://github.com/ziyunli/aoc/actions/workflows/dev.yml/badge.svg)](https://github.com/ziyunli/aoc/actions/workflows/dev.yml)
+[![codecov](https://codecov.io/gh/ziyunli/aoc/branch/main/graphs/badge.svg)](https://codecov.io/github/ziyunli/aoc)
 
 
 Advent of Code 2021
 
 
-* Documentation: <https://ziyunli.github.io/aoc2021>
-* GitHub: <https://github.com/ziyunli/aoc2021>
-* PyPI: <https://pypi.org/project/aoc2021/>
+* Documentation: <https://ziyunli.github.io/aoc>
+* GitHub: <https://github.com/ziyunli/aoc>
 * Free software: MIT
 
 ## Instructions
