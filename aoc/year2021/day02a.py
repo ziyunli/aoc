@@ -1,21 +1,8 @@
 from collections import namedtuple
-from enum import Enum, auto
 from typing import List
 
+from .command import Command, Direction
 
-class AutoName(Enum):
-    def _generate_next_value_(name, start, count, last_values):
-        return name
-
-
-class Direction(AutoName):
-    FORWARD = auto()
-    BACKWARD = auto()
-    UP = auto()
-    DOWN = auto()
-
-
-Command = namedtuple("Command", ['direction', 'step'])
 Position = namedtuple("Position", ['x', 'y'])
 
 
